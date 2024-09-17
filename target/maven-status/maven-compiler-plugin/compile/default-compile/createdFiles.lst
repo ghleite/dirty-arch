@@ -1,0 +1,6 @@
+com\ada\DirtyArchApplication.class
+com\ada\service\UserServiceImpl.class
+com\ada\repository\UserRepository.class
+com\ada\service\UserService.class
+com\ada\controller\UserController.class
+com\ada\model\User.class
